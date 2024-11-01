@@ -1,0 +1,1441 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .navbar{
+    
+    position: relative;
+    display: flex;
+    padding: 20px;
+    margin: auto;
+    height: 70px;
+  
+    
+        .header{
+        display: flex;
+        position: relative;
+        gap: 15px;
+
+       .image{
+        position: relative;
+        height: 20px;
+        left: 25px;
+
+       }
+
+       & div1{
+        margin: auto;
+        font-weight: bold;
+        font-size: 20px;
+        margin-left: 160px;
+        width: 250px;
+       }
+    
+       & div2{
+        position: relative;
+       font-weight: bold;
+       font-size: 15px;
+        border: 1px solid;
+        border-radius: 10px;
+        padding: 2px 10px;
+        text-align: center;
+        }
+        & div3{
+        position: relative;
+        font-weight: bold;
+        width: 120px;
+        padding: 5px;
+        margin-left: 40px;
+        font-size: 15px;
+        border: 1px solid;
+        text-align: center;
+        border-radius: 10px;
+        background-color: black;
+        -webkit-text-fill-color: white;
+       }
+        & div4{
+        position: relative;
+        margin: auto;
+       height: 30px;
+       margin-left: 15px;
+          }
+        }
+       }
+  
+  
+  
+        .sectionbar{
+         position: relative;
+         margin: 0px 20px;
+         height: 300px;
+  
+         & img{
+         position: absolute;
+          height: 300px;
+          width: 100%;
+         }
+  
+     .index{
+      display: flex;
+      position: relative;
+      padding: 30px 0px 10px 0px;
+      text-align: center;
+      left: 170px;
+  
+     .store{
+      position: absolute;
+      width: 550px;
+      height: 250px;
+      padding: 40px 10px;
+      border-radius: 15px;
+      background-color: white;
+     
+  
+     .diva{
+     position: relative;
+     font-weight: bold;
+    
+     }
+
+     .divb1234{
+      position: relative;
+      margin: 30px 0px;
+  
+      .b1{
+        position: relative;
+        margin: 10px;
+        padding: 3px;
+        width: 100px;
+       
+       }
+       .b2{
+        position:relative;
+        margin: 10px;
+        padding: 3px;
+        width: 100px;
+       }
+       .b3{
+        position: relative;
+        padding: 3px;
+        margin: 10px;
+        width: 100px;
+       }
+       .b4{
+        position: relative;
+        padding: 3px;
+        margin: 10px;
+        width: 100px;
+       }
+
+     }
+
+     .divbc{
+      position: relative;
+      gap: 30px;
+  
+      .divb{
+        position: relative; 
+        padding: 5px;
+        margin: 10px 20px;
+        border: 1px solid ;
+        font-size: 15px;
+        width: 100px;
+        background-color: grey;
+        Opacity: 0.9;
+  
+       }
+       
+       .divc{
+        position: relative;
+        border: 1px solid ;
+        padding: 5px;
+        width: 120px;
+        margin: 0px 0px 10px 0px;
+        font-size: 15px;
+        font-weight: bold;
+        background-color: aqua;
+        border-radius: 20px;
+    }
+     }
+     
+    }
+
+    .b5{
+      position: relative;
+      margin-top: 170px;
+      margin-left: 220px;
+      border-radius: 10px;
+      padding: 5px;
+      width: 120px;
+     }
+  }
+  }
+
+  
+  .picture{
+    position: absolute;
+    background-color: goldenrod;
+   height: 200px;
+   width: 96.3%;
+  margin-left: 20px;
+  margin-right: 10px;
+  z-index: -1;
+
+  .div1{
+    position: absolute;
+   & h1{
+      position: absolute;
+      margin-top: 10px;
+      padding: 20px;
+     font-size: 18px;
+    left: 300px;
+     width: 350px;
+     }
+    & img{
+      position: absolute;
+      z-index: -1;
+      height: 10px;
+     height: 80px;
+     margin-top: 90px;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+      
+    }
+  }
+  
+  .features{
+    position: relative;
+    display: flex;
+    margin-top: 160px;
+  
+    & h2{
+      position:absolute;
+      font-size: 20px;
+      width: 270px;
+      margin-top: 60px;
+      left: 40px;
+    }
+    .decoration{
+      position:relative;
+     margin-top: 80px;
+      
+  
+      .child1{
+        position: relative;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 80px;
+      padding: 20px;
+  
+        .d1{
+          position: relative;
+          margin-left: 20px;
+  
+          .Escrow{
+            position: relative;
+            width: 40px;
+            height: 30px;
+            margin-left: 55px;
+          }
+          & h3{
+            position: relative;
+            margin-bottom: 10px;
+          }
+  
+          & p1{
+            position: relative;
+           padding-bottom: 10px;
+          }
+          & h4{
+            position: relative;
+            padding: 10px 0px 0px 0px;
+            border-bottom: 1px solid;
+            text-align: center;
+        }
+      }
+  
+        .d2{
+          position: relative;
+        .newbic{
+          position: relative;
+         padding-bottom: 10px;
+         width: 40px;
+         height: 35px;
+         left: 45px;
+        }
+          & h5{
+          position: relative;
+          font-size: 17px;
+          padding-bottom: 10px;
+          }
+          & p2{
+            position: relative;
+            
+          }
+          & h6{
+            position: relative;
+            font-size: 16px;
+            padding-top: 10px;
+            width: 300px;
+            text-underline-offset: bottom;
+            border-bottom: 1px solid;
+            text-align: center;
+          }
+        }
+  
+        .d3{
+          position: relative;
+          margin-bottom: 30px;
+        
+        .payment{
+          position: relative;
+          margin: 15px 0px;
+         padding-bottom: 10px;
+          left: 90px;
+          height: 30px;
+          width: 50px;
+        }
+        & h7{
+          position: relative;
+          font-size: 16px;
+          font-weight: bold;
+         margin-bottom: 10px;
+       
+        }
+        & p3{
+          position: absolute;
+         margin: 20px px;
+
+        
+        }
+        & h8{
+          position: absolute;
+          font-size: 16px;
+          font-weight: bold; 
+          margin: 30px 0px;
+          border-bottom: 1px solid;
+          text-align: center;
+        }
+      }
+    }
+  
+      .buttona{
+        position: relative;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 6px;
+      margin: 20px 0px 20px 400px;
+      border-radius: 10px;
+      }
+      }
+    } 
+  
+
+    .offer{
+     position: relative;
+
+     .special{
+      position: relative;
+      display: grid;
+     margin: 0px 20px;
+     width: 96.3%;
+     gap:60px;
+     grid-template-columns: repeat(2, minmax(0, 1fr));
+     background-color: rgb(243, 247, 247);
+     border-top: 1px solid;
+
+     .zella0{
+      position: relative;
+      
+      padding: 10px;
+      left: 40px;
+      gap: 40px;
+
+      .h0{
+        position: relative;
+        font-size: 25px;
+        font-weight: bold;
+       }
+
+       .blur{
+        position: relative;
+       border: 1px solid;
+       align-items: center;
+       padding: 5px;
+       border-radius: 5px;
+       margin: 10px 0px;
+
+       .bl{
+        position: relative;
+        height: 30px;
+        padding: 5px;
+       }
+       .e{
+        position: relative;
+        font-size: 15px;
+       }
+      }
+      .component1{
+        position: relative;
+        border: 1px solid;
+        padding: 5px;
+        border-radius: 5px;
+
+        .co{
+          height: 20px;
+          margin: auto;
+        }
+         .c1{
+          font-size: 15px;
+         }
+       }
+      .component2{
+        position: relative;
+        text-align: center;
+        padding: 5px;
+        border: 1px solid;
+        border-radius: 5px;
+
+        .c01{
+          height: 20px;
+        }
+        .c2{
+          font-size: 15px;
+        }
+      }
+
+      .button1{
+        position: relative;
+        padding: 5px 20px;
+        margin: 20px 0px;
+        border-radius: 15px;
+        background-color: black;
+        color: white;
+        left: 70px;
+      }
+     }
+     .sell{
+      position: relative;
+     padding: 10px;
+     left: 40px;
+
+     .h01{
+      position: relative;
+      font-weight: bold;
+      font-size: 25px;
+      margin-bottom: 10px;
+     }
+     .blur5{
+      position: relative;
+      border: 1px solid;
+      padding: 5px;
+      border-radius: 5px;
+
+      .bl6{
+        height: 20px;
+      }
+
+      .e6{
+        font-size: 15px;
+      }
+     }
+     .component5{
+      position: relative;
+      border: 1px solid;
+      padding: 5px;
+      border-radius: 5px;
+
+      .co6{
+        height: 20px;
+      }
+      .c6{
+        font-size: 15px;
+      }
+     }
+     .component6{
+      position: relative;
+      border: 1px solid;
+      padding: 5px;
+      border-radius: 5px;
+
+      .c07{
+        height: 20px;
+      }
+      .c7{
+        font-size: 15px;
+      }
+     }
+     .button2{
+      position: relative;
+      margin: 20px 50px;
+      background-color: black;
+      color: white;
+      padding: 5px 20px;
+      border-radius: 15px;
+      nav-left: 60px;
+    
+     }
+
+     }
+    }
+  }
+
+  
+      .start{
+        position: absolute;
+        margin: 0px 20px;
+        padding: 20px;
+        background-color: rgb(136, 129, 196);
+        text-align: center;
+        width: 96.3%;
+        height: 130px;
+  
+        & h1{
+          position: relative;
+          font-size: 18px;
+        }
+  
+          & button{
+            position: relative;
+            padding: 5px;
+            border-radius: 20px;
+            color: white;
+            background-color: black;
+            width: 90px;
+          }
+        }
+      
+   
+  .last{
+  position: relative;
+   margin-top: 130px;
+   width: 96.3%;
+   margin-left: 20px;
+   display: grid;
+   height: 300px;
+   gap: 20px;
+   grid-template-columns: repeat(4, minmax(0, 1fr));
+  background-color: black;
+  color: white;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+
+   .spacio{
+    position: relative;
+    margin-top: 15px;
+    height: 25px;
+    padding-left: 20px;
+   }
+   .divx{
+    position: relative;
+    margin: 20px;
+    & h1{
+      font-size: 25px;
+      margin-top: 20px;
+    }
+   }
+
+   .divy{
+    position: relative;
+    margin-top: 40px;
+    & h2{
+      font-size: 20px;
+    }
+    & s2{
+      position: relative;
+      margin-top: 20px;
+      font-size: 15px;
+    }
+   }
+
+   .divz{
+    position: relative;
+    margin-top: 40px;
+   }
+
+   .underlin{
+    position: relative;
+   border-top: 1px solid;
+    width: 1200px;
+    left: 0px;
+   }
+
+   .p00{
+    position: relative;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 10px;
+    width: 600px;
+   left: 20px;
+  
+   }
+  }
+  
+
+  /* responsive for mobile */
+ @media (max-device-width: 767px) {
+  .navbar{
+    
+    position: relative;
+    display: flex;
+    padding: 20px;
+    margin: auto;
+    height: 70px;
+  
+    
+        .header{
+        display: flex;
+        position: relative;
+
+       .image{
+        height: 20px;
+
+       }
+
+       & div1{
+        margin: auto;
+        font-weight: bold;
+        font-size: 10px;
+        margin-left: 20px;
+        width: 29px;
+       }
+
+  & div2{
+    position: relative;
+   font-weight: bold;
+   font-size: 10px;
+    border: 1px solid;
+    border-radius: 1px;
+    padding: 2px;
+    text-align: center;
+    }
+    & div3{
+    position: relative;
+    font-weight: bold;
+    width: 60px;
+    padding: 5px;
+    margin-left: 10px;
+    font-size: 8px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 2px;
+    background-color: black;
+    -webkit-text-fill-color: white;
+   }
+    & div4{
+    position: relative;
+    margin: auto;
+   height: 30px;
+   margin-left: 10px;
+      }
+    }
+   }
+
+.sectionbar{
+         position: relative;
+         margin: 0px 20px;
+         height: 300px;
+  
+         & img{
+         position: absolute;
+          height: 300px;
+          width: 100%;
+         }
+  
+     .index{
+      display: flex;
+      position: relative;
+      padding: 30px 0px 10px 0px;
+      text-align: center;
+      left: 20px;
+  
+     .store{
+      position: absolute;
+      width: 340px;
+      height: 250px;
+      padding: 10px 5px;
+      border-radius: 10px;
+      background-color: white;
+
+      .diva{
+        position: relative;
+        font-weight: bold;
+        margin: 10px 0px;
+       
+        }
+   
+        .divb1234{
+         position: relative;
+         margin: 10px 0px;
+     
+         .b1{
+           position: relative;
+           margin: 3px;
+           padding: 3px;
+           width: 65px;
+           font-size: 10px;
+          
+          }
+          .b2{
+           position:relative;
+           margin: 2px;
+           padding: 1px;
+           font-size: 10px;
+           width: 65px;
+          }
+          .b3{
+            position: relative;
+            padding: 3px;
+            margin: 2px;
+            font-size: 10px;
+            width: 65px;
+           }
+           .b4{
+            position: relative;
+            padding: 3px;
+            margin: 2px;
+            font-size: 10px;
+            width: 65px;
+           }
+          }
+    
+         .divbc{
+          position: relative;
+          gap: 30px;
+
+          .divb{
+            position: relative; 
+            padding: 5px;
+            margin: 20px 20px;
+            border: 1px solid ;
+            font-size: 12px;
+            width: 80px;
+            background-color: grey;
+            Opacity: 0.9;
+      
+           }
+           
+           .divc{
+            position: relative;
+            border: 1px solid ;
+            padding: 5px;
+            width: 100px;
+            margin: 0px 0px 10px 0px;
+            font-size: 10px;
+            font-weight: bold;
+            background-color: aqua;
+            border-radius: 10px;
+          }
+         }
+         
+        }
+        .b5{
+          position: relative;
+          margin-top: 130px;
+          margin-left: 120px;
+          border-radius: 10px;
+          padding: 5px;
+          width: 120px;
+         }
+      }
+      }
+      .picture{
+        position: absolute;
+        background-color: goldenrod;
+       height: 200px;
+       width: 90.3%;
+      margin-left: 20px;
+      margin-right: 10px;
+      z-index: -1;
+    
+      .div1{
+        position: absolute;
+
+       & h1{
+          position: absolute;
+          margin-top: 10px;
+          padding: 20px;
+         font-size: 18px;
+        left: 30px;
+         width: 350px;
+         }
+        & img{
+          position: absolute;
+          z-index: -1;
+         height: 32px;
+         margin-top: 70px;
+        }
+          
+        }
+      }
+
+      .features{
+        position: relative;
+        display: flex;
+        margin-top: 160px;
+      
+        & h2{
+          position:absolute;
+          font-size: 15px;
+          width: 250px;
+          margin-top: 50px;
+          left: 20px;
+        }
+        .decoration{
+          position:relative;
+         margin-top: 70px;
+          
+      
+          .child1{
+            position: relative;
+            display: gride;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 100px;
+          padding: 10px;
+          width: 75%;
+      
+            .d1{
+              position: relative;
+              margin-left: 10px;
+
+              .Escrow{
+                position: relative;
+                width: 30px;
+                height: 30px;
+                padding: 2px;
+                margin-left: 13px;
+              }
+              & h3{
+                position: relative;
+                margin-bottom: 10px;
+                font-size: 14px;
+              }
+      
+              & p1{
+                position: relative;
+               padding-bottom: 8px;
+               font-size: 12px;
+              }
+              & h4{
+                position: relative;
+                font-size: 12px;
+                padding: 10px 0px 0px 0px;
+                border-bottom: 1px solid;
+                text-align: center;
+            }
+          }
+          .d2{
+            position: relative;
+
+          .newbic{
+            position: relative;
+           padding-bottom: 10px;
+           width: 30px;
+           height: 35px;
+           left: 10px;
+           margin-top: 8px;
+          }
+            & h5{
+            position: relative;
+            font-size: 12px;
+            padding-bottom: 5px;
+            }
+            & p2{
+              position: relative;
+              font-size: 8px;
+            }
+            & h6{
+              position: relative;
+              font-size: 12px;
+              padding-top: 6px;
+              width: 100px;
+              text-underline-offset: bottom;
+              border-bottom: 1px solid;
+              text-align: center;
+            }
+          }
+          .d3{
+            position: relative;
+            margin-bottom: 30px;
+          
+          .payment{
+            position: relative;
+            margin: 10px 0px;
+           padding-bottom: 10px;
+            left: 1px;
+            height: 35px;
+            width: 30px;
+          }
+          & h7{
+            position: relative;
+            font-size: 12px;
+            font-weight: bold;
+           margin-bottom: 10px;
+         
+          }
+          & p3{
+            position: absolute;
+           margin: 10px 0px;
+           font-size: 10px;
+          }
+          & h8{
+            position: absolute;
+            font-size: 12px;
+            font-weight: bold; 
+            margin: 30px 0px;
+            border-bottom: 1px solid;
+            text-align: center;
+          }
+        }
+      }
+    
+        .buttona{
+          position: relative;
+          font-size: 16px;
+          font-weight: bold;
+          padding: 6px;
+        margin: 20px 0px 20px 150px;
+        border-radius: 10px;
+        }
+        }
+      }
+      .offer{
+        position: relative;
+   
+        .special{
+         position: relative;
+         display: grid;
+        margin: 0px 20px;
+        width: 90%;
+        gap:60px;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        background-color: rgb(243, 247, 247);
+        border-top: 1px solid;
+        }
+      }
+
+        .start{
+          position: absolute;
+      
+          background-color: rgb(136, 129, 196);
+          text-align: center;
+          width: 90%;
+          height: 130px;
+    
+          & h1{
+            position: relative;
+            font-size: 18px;
+          }
+    
+            & button{
+              position: relative;
+              padding: 5px;
+              border-radius: 20px;
+              color: white;
+              background-color: black;
+              width: 90px;
+            }
+          }
+          .last{
+            position: relative;
+             margin-top: 130px;
+             width: 90%;
+             margin-left: 20px;
+             display: grid;
+             height: 300px;
+             gap: 20px;
+             grid-template-columns: repeat(4, minmax(0, 1fr));
+            background-color: black;
+            color: white;
+            border-bottom-left-radius: 25px;
+            border-bottom-right-radius: 25px;
+          
+             .spacio{
+              position: relative;
+              margin-top: 15px;
+              height: 17px;
+              padding-left: 10px;
+             }
+             .divx{
+              position: relative;
+              margin: 10px;
+
+              & h1{
+                font-size: 20px;
+                margin-top: 20px;
+              }
+             }
+          
+             .divy{
+              position: relative;
+              margin-top: 30px;
+              & h2{
+                font-size: 17px;
+              }
+              & s2{
+                position: relative;
+                margin-top: 20px;
+                font-size: 15px;
+              }
+             }
+             .divz{
+              position: relative;
+              margin-top: 30px;
+             }
+          
+             .underlin{
+              position: relative;
+             border-top: 1px solid;
+              width: 1200px;
+             }
+          
+             .p00{
+              position: relative;
+              margin-bottom: 10px;
+              font-size: 10px;
+              width: 150px;
+          
+             }
+            }            
+  }
+
+  /* responsive for mobile */
+ @media (max-device-width: 767px) {
+    .navbar{
+      
+      position: relative;
+      display: flex;
+      padding: 22px;
+      margin: auto;
+      height: 70px;
+    
+      
+          .header{
+          display: flex;
+          position: relative;
+  
+         .image{
+          height: 18px;
+          
+  
+         }
+  
+         & div1{
+          margin: auto;
+          font-weight: bold;
+          font-size: 10px;
+          margin-left: 40px;
+          width: 70px;
+         }
+  
+    & div2{
+      position: relative;
+     font-weight: bold;
+     font-size: 10px;
+      border: 1px solid;
+      border-radius: 1px;
+      padding: 2px;
+      left: 10px;
+      text-align: center;
+      }
+      & div3{
+      position: relative;
+      font-weight: bold;
+      width: 60px;
+      padding: 5px;
+      left: 14px;
+      margin-left: 10px;
+      font-size: 8px;
+      border: 1px solid;
+      text-align: center;
+      border-radius: 2px;
+      background-color: black;
+      -webkit-text-fill-color: white;
+     }
+      & div4{
+      position: relative;
+      margin: auto;
+     height: 30px;
+     margin-left: 20px;
+        }
+      }
+     }
+  
+  .sectionbar{
+           position: relative;
+           margin: 0px 20px;
+           height: 300px;
+    
+           & img{
+           position: absolute;
+            height: 300px;
+            width: 100%;
+           }
+    
+       .index{
+        display: flex;
+        position: relative;
+        padding: 30px 0px 10px 0px;
+        text-align: center;
+        left: 20px;
+    
+       .store{
+        position: absolute;
+        width: 340px;
+        height: 250px;
+        padding: 10px 5px;
+        border-radius: 10px;
+        background-color: white;
+  
+        .diva{
+          position: relative;
+          font-weight: bold;
+          margin: 10px 0px;
+         
+          }
+     
+          .divb1234{
+           position: relative;
+           margin: 10px 0px;
+       
+           .b1{
+             position: relative;
+             margin: 3px;
+             padding: 3px;
+             width: 65px;
+             font-size: 10px;
+            
+            }
+            .b2{
+             position:relative;
+             margin: 2px;
+             padding: 1px;
+             font-size: 10px;
+             width: 65px;
+            }
+            .b3{
+              position: relative;
+              padding: 3px;
+              margin: 2px;
+              font-size: 10px;
+              width: 65px;
+             }
+             .b4{
+              position: relative;
+              padding: 3px;
+              margin: 2px;
+              font-size: 10px;
+              width: 65px;
+             }
+            }
+      
+           .divbc{
+            position: relative;
+            gap: 30px;
+  
+            .divb{
+              position: relative; 
+              padding: 5px;
+              margin: 20px 20px;
+              border: 1px solid ;
+              font-size: 12px;
+              width: 80px;
+              background-color: grey;
+              Opacity: 0.9;
+        
+             }
+             
+             .divc{
+              position: relative;
+              border: 1px solid ;
+              padding: 5px;
+              width: 100px;
+              margin: 0px 0px 10px 0px;
+              font-size: 10px;
+              font-weight: bold;
+              background-color: aqua;
+              border-radius: 10px;
+            }
+           }
+           
+          }
+          .b5{
+            position: relative;
+            margin-top: 130px;
+            margin-left: 120px;
+            border-radius: 10px;
+            padding: 5px;
+            width: 120px;
+           }
+        }
+        }
+        .picture{
+          position: absolute;
+          background-color: goldenrod;
+         height: 200px;
+         width: 90.3%;
+        margin-left: 20px;
+        margin-right: 10px;
+        z-index: -1;
+      
+        .div1{
+          position: absolute;
+  
+         & h1{
+            position: absolute;
+            margin-top: 10px;
+            padding: 20px;
+           font-size: 18px;
+          left: 30px;
+           width: 350px;
+           }
+          & img{
+            position: absolute;
+            z-index: -1;
+           height: 32px;
+           margin-top: 70px;
+          }
+            
+          }
+        }
+  
+        .features{
+          position: relative;
+          display: flex;
+          margin-top: 160px;
+        
+          & h2{
+            position:absolute;
+            font-size: 15px;
+            width: 250px;
+            margin-top: 50px;
+            left: 20px;
+          }
+          .decoration{
+            position:relative;
+           margin-top: 70px;
+            
+        
+            .child1{
+              position: relative;
+              display: gride;
+              grid-template-columns: repeat(3, minmax(0, 1fr));
+              gap: 100px;
+            padding: 10px;
+            width: 75%;
+        
+              .d1{
+                position: relative;
+                margin-left: 10px;
+  
+                .Escrow{
+                  position: relative;
+                  width: 30px;
+                  height: 30px;
+                  padding: 2px;
+                  margin-left: 13px;
+                }
+                & h3{
+                  position: relative;
+                  margin-bottom: 10px;
+                  font-size: 14px;
+                }
+        
+                & p1{
+                  position: relative;
+                 padding-bottom: 8px;
+                 font-size: 12px;
+                }
+                & h4{
+                  position: relative;
+                  font-size: 12px;
+                  padding: 10px 0px 0px 0px;
+                  border-bottom: 1px solid;
+                  text-align: center;
+              }
+            }
+            .d2{
+              position: relative;
+  
+            .newbic{
+              position: relative;
+             padding-bottom: 10px;
+             width: 30px;
+             height: 35px;
+             left: 10px;
+             margin-top: 8px;
+            }
+              & h5{
+              position: relative;
+              font-size: 12px;
+              padding-bottom: 5px;
+              }
+              & p2{
+                position: relative;
+                font-size: 8px;
+              }
+              & h6{
+                position: relative;
+                font-size: 12px;
+                padding-top: 6px;
+                width: 100px;
+                text-underline-offset: bottom;
+                border-bottom: 1px solid;
+                text-align: center;
+              }
+            }
+            .d3{
+              position: relative;
+              margin-bottom: 30px;
+            
+            .payment{
+              position: relative;
+              margin: 10px 0px;
+             padding-bottom: 10px;
+              left: 1px;
+              height: 35px;
+              width: 30px;
+            }
+            & h7{
+              position: relative;
+              font-size: 12px;
+              font-weight: bold;
+             margin-bottom: 10px;
+           
+            }
+            & p3{
+              position: absolute;
+             margin: 10px 0px;
+             font-size: 10px;
+            }
+            & h8{
+              position: absolute;
+              font-size: 12px;
+              font-weight: bold; 
+              margin: 30px 0px;
+              border-bottom: 1px solid;
+              text-align: center;
+            }
+          }
+        }
+      
+          .buttona{
+            position: relative;
+            font-size: 16px;
+            font-weight: bold;
+            padding: 6px;
+          margin: 20px 0px 20px 150px;
+          border-radius: 10px;
+          }
+          }
+        }
+        .offer{
+          position: relative;
+     
+          .special{
+           position: relative;
+           display: grid;
+          margin: 0px 20px;
+          width: 90%;
+          gap:60px;
+          grid-template-columns: repeat(1, minmax(0, 1fr));
+          background-color: rgb(243, 247, 247);
+          border-top: 1px solid;
+          }
+        }
+  
+          .start{
+            position: absolute;
+        
+            background-color: rgb(136, 129, 196);
+            text-align: center;
+            width: 90%;
+            height: 130px;
+      
+            & h1{
+              position: relative;
+              font-size: 18px;
+            }
+      
+              & button{
+                position: relative;
+                padding: 5px;
+                border-radius: 20px;
+                color: white;
+                background-color: black;
+                width: 90px;
+              }
+            }
+            .last{
+              position: relative;
+               margin-top: 130px;
+               width: 90%;
+               margin-left: 20px;
+               display: grid;
+               height: 300px;
+               gap: 20px;
+               grid-template-columns: repeat(4, minmax(0, 1fr));
+              background-color: black;
+              color: white;
+              border-bottom-left-radius: 25px;
+              border-bottom-right-radius: 25px;
+            
+               .spacio{
+                position: relative;
+                margin-top: 15px;
+                height: 17px;
+                padding-left: 10px;
+               }
+               .divx{
+                position: relative;
+                margin: 10px;
+  
+                & h1{
+                  font-size: 20px;
+                  margin-top: 20px;
+                }
+               }
+            
+               .divy{
+                position: relative;
+                margin-top: 30px;
+                & h2{
+                  font-size: 17px;
+                }
+                & s2{
+                  position: relative;
+                  margin-top: 20px;
+                  font-size: 15px;
+                }
+               }
+               .divz{
+                position: relative;
+                margin-top: 30px;
+               }
+            
+               .underlin{
+                position: relative;
+               border-top: 1px solid;
+                width: 1200px;
+               }
+            
+               .p00{
+                position: relative;
+                margin-bottom: 10px;
+                font-size: 10px;
+                width: 150px;
+            
+               }
+              }
+          
+              
+    }
+  
+    
